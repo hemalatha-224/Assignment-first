@@ -1,0 +1,11 @@
+
+
+public class browser {
+//syntax to create main method
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("This is my browser");
+
+	}
+
+}
